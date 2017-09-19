@@ -7,7 +7,6 @@ worker then recursively mines for bitcoins. On each computation, the worker
 generates the latter part of the string (of length 20) and appends it to the 
 string prefix sent by the server and the gator ID. Thus, the worker generates 
 the candidate string and further hashes it to check for leading zeroes.
-
 Example:
 Server generated prefix (length = 12; sent to worker) - fba4e19ea38be
 Worker generated suffix (length = 20) - 8df9c2ff9944c542db5
