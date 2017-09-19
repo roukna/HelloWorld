@@ -1,6 +1,6 @@
 # Project1
 
-## Group members: 
+###### **Group Members**:
 ###### Roukna Sengupta, UFID - 4947 4474
 ###### Anuja Salunkhe, UFID - 3213 0171
 
