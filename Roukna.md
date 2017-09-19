@@ -1,5 +1,9 @@
 # Project1
 
+## Group members: 
+###### Roukna Sengupta, UFID - 4947 4474
+###### Anuja Salunkhe, UFID - 3213 0171
+
 **Size of *work units***: Each worker mines bitcoins of fixed length 32. We split
 the string into two parts of length 12 and 20. When a worker requests the server 
 for work, the server generates a random string of length 12 and passes it to the 
