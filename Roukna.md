@@ -13,7 +13,7 @@ We can the algorithm on 100, 500, 1000, 2000 nodes with 10 requests. We got the 
 | 100          | 3.267                     | 
 | 500          | 4.1204                    | 
 | 1000         | 4.5168                    | 
-| 10000        | 5.08815                   |
+| 2000         | 5.08815                   |
 
 
 
