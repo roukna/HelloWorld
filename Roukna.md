@@ -22,10 +22,10 @@ We can the algorithm on 100, 500, 1000, 2000 nodes with 10 requests. We got the 
 The maximum number of actors against which we could run our Gossip protocol was 10000 nodes.
 
 ```
-roukna-~/roukna_folder/project3$ ./project3 100 3
-Total number of hops: 996
-Total number of routes: 300
-Average hops per route: 3.32
+roukna-~/roukna_folder/project3$ ./project3 10000 10
+Total number of hops: 654587
+Total number of routes: 100000
+Average hops per route: 6.54587
 ** (EXIT from #PID<0.75.0>) shutdown
 ```
 
