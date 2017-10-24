@@ -8,12 +8,12 @@ We have implemented the pastry protocol using Actor model. We have implemented t
 
 We can the algorithm on 100, 500, 1000, 2000 nodes with 10 requests. We got the average number of hops as follows:
 
-| ﻿  Pastry    |         | 
-|--------------|---------|
-| 100          | 3.267   | 
-| 500          | 4.1204  | 
-| 1000         | 4.5168  | 
-| 10000        | 5.08815 |
+| ﻿  Nodes     |   Average no. of hops     | 
+|--------------|---------------------------|
+| 100          | 3.267                     | 
+| 500          | 4.1204                    | 
+| 1000         | 4.5168                    | 
+| 10000        | 5.08815                   |
 
 
 
