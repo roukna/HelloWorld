@@ -19,7 +19,7 @@ We can the algorithm on 100, 500, 1000, 2000 nodes with 10 requests. We got the 
 
 **What is the largest network you managed to deal with:**
 
-The maximum number of actors against which we could run our Gossip protocol was 10000 nodes.
+The maximum number of actors against which we could run our Pastry protocol was 10000 nodes.
 
 ```
 roukna-~/roukna_folder/project3$ ./project3 10000 10
